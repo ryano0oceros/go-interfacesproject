@@ -30,3 +30,5 @@ func (fb frenchBot) getGreeting() string {
 	//custom logic
 	return "bonjour"
 }
+
+//no changes through 57...
